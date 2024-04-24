@@ -20,11 +20,6 @@
     flex-direction: column;
   }
   
-  .freecodecamp-logo {
-    height: 30px;
-    margin-bottom: 20px;
-  }
-  
   .title {
     text-align: center;
     padding: 10px 0;
